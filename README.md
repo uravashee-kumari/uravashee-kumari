@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Urvashee Kumari 👋
 
-<!--
-**uravashee-kumari/uravashee-kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Skills:
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Web Development
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/uravashee-kumari-560b62311
+
+⭐ Welcome to my GitHub profile!
